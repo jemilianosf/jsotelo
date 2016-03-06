@@ -1,2 +1,2 @@
 # jsotelo
-Tareas de bioinformatica estructural de Jesús Emiliano Sotelo Fonseca.
+Tareas de bioinformatica estructural de Bernardo Moreno Quiroga y Jesús Emiliano Sotelo Fonseca.
